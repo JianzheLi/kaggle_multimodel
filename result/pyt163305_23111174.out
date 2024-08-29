@@ -1,0 +1,744 @@
+torch.Size([70988, 21748])
+torch.Size([70988, 140])
+epoach1，训练loss1.129210, 验证loss0.893487
+
+epoach1，训练acc0.803109, 验证acc0.807237
+
+epoach2，训练loss1.127805, 验证loss0.872278
+epoach2，训练acc0.803477, 验证acc0.808834
+
+epoach3，训练loss1.127667, 验证loss0.873270
+epoach3，训练acc0.803484, 验证acc0.809483
+
+epoach4，训练loss1.127023, 验证loss0.878536
+epoach4，训练acc0.803421, 验证acc0.808841
+
+epoach5，训练loss1.126640, 验证loss0.886866
+epoach5，训练acc0.803548, 验证acc0.808077
+
+epoach6，训练loss1.126533, 验证loss0.881995
+epoach6，训练acc0.803505, 验证acc0.808318
+
+epoach7，训练loss1.126560, 验证loss0.883958
+epoach7，训练acc0.803568, 验证acc0.808718
+
+epoach8，训练loss1.126403, 验证loss0.882595
+epoach8，训练acc0.803689, 验证acc0.808492
+
+epoach9，训练loss1.126562, 验证loss0.889762
+epoach9，训练acc0.803567, 验证acc0.808343
+
+epoach10，训练loss1.126359, 验证loss0.885500
+epoach10，训练acc0.803505, 验证acc0.808526
+
+epoach11，训练loss1.126411, 验证loss0.877532
+epoach11，训练acc0.803692, 验证acc0.808942
+
+epoach12，训练loss1.126291, 验证loss0.881923
+epoach12，训练acc0.803576, 验证acc0.808546
+
+epoach13，训练loss1.126304, 验证loss0.883192
+epoach13，训练acc0.803693, 验证acc0.808524
+
+epoach14，训练loss1.126887, 验证loss0.893241
+epoach14，训练acc0.803387, 验证acc0.807910
+
+epoach15，训练loss1.126442, 验证loss0.877052
+epoach15，训练acc0.803664, 验证acc0.809004
+
+epoach16，训练loss1.126398, 验证loss0.876479
+epoach16，训练acc0.803738, 验证acc0.809029
+
+epoach17，训练loss1.126301, 验证loss0.884264
+epoach17，训练acc0.803594, 验证acc0.808544
+
+epoach18，训练loss1.126332, 验证loss0.887364
+epoach18，训练acc0.803520, 验证acc0.808162
+
+epoach19，训练loss1.126185, 验证loss0.881743
+epoach19，训练acc0.803641, 验证acc0.808441
+
+epoach20，训练loss1.126348, 验证loss0.878202
+epoach20，训练acc0.803682, 验证acc0.809265
+
+epoach21，训练loss1.126324, 验证loss0.876686
+epoach21，训练acc0.803592, 验证acc0.809079
+
+epoach22，训练loss1.126476, 验证loss0.877083
+epoach22，训练acc0.803681, 验证acc0.809055
+
+epoach23，训练loss1.126360, 验证loss0.886020
+epoach23，训练acc0.803464, 验证acc0.808014
+
+epoach24，训练loss1.126196, 验证loss0.878766
+epoach24，训练acc0.803652, 验证acc0.808697
+
+epoach25，训练loss1.126192, 验证loss0.881963
+epoach25，训练acc0.803552, 验证acc0.808684
+
+epoach26，训练loss1.126171, 验证loss0.883459
+epoach26，训练acc0.803679, 验证acc0.808627
+
+epoach27，训练loss1.126275, 验证loss0.886357
+epoach27，训练acc0.803586, 验证acc0.808314
+
+epoach28，训练loss1.126250, 验证loss0.886281
+epoach28，训练acc0.803527, 验证acc0.808397
+
+epoach29，训练loss1.126129, 验证loss0.881477
+epoach29，训练acc0.803640, 验证acc0.808781
+
+epoach30，训练loss1.126221, 验证loss0.885629
+epoach30，训练acc0.803582, 验证acc0.808289
+
+epoach31，训练loss1.126182, 验证loss0.881575
+epoach31，训练acc0.803586, 验证acc0.808466
+
+epoach32，训练loss1.126144, 验证loss0.882246
+epoach32，训练acc0.803695, 验证acc0.808585
+
+epoach33，训练loss1.126165, 验证loss0.882937
+epoach33，训练acc0.803684, 验证acc0.808639
+
+epoach34，训练loss1.126180, 验证loss0.883168
+epoach34，训练acc0.803584, 验证acc0.808574
+
+epoach35，训练loss1.126322, 验证loss0.887059
+epoach35，训练acc0.803596, 验证acc0.808513
+
+epoach36，训练loss1.126214, 验证loss0.879153
+epoach36，训练acc0.803669, 验证acc0.809005
+
+epoach37，训练loss1.126247, 验证loss0.878446
+epoach37，训练acc0.803687, 验证acc0.808907
+
+epoach38，训练loss1.126139, 验证loss0.882161
+epoach38，训练acc0.803618, 验证acc0.808676
+
+epoach39，训练loss1.126183, 验证loss0.885084
+epoach39，训练acc0.803648, 验证acc0.808730
+
+epoach40，训练loss1.126161, 验证loss0.884134
+epoach40，训练acc0.803616, 验证acc0.808513
+
+epoach41，训练loss1.126126, 验证loss0.881761
+epoach41，训练acc0.803698, 验证acc0.809045
+
+epoach42，训练loss1.126185, 验证loss0.879352
+epoach42，训练acc0.803677, 验证acc0.808931
+
+epoach43，训练loss1.126339, 验证loss0.887906
+epoach43，训练acc0.803451, 验证acc0.808042
+
+epoach44，训练loss1.126159, 验证loss0.883315
+epoach44，训练acc0.803614, 验证acc0.808627
+
+epoach45，训练loss1.126144, 验证loss0.884350
+epoach45，训练acc0.803623, 验证acc0.808576
+
+epoach46，训练loss1.126109, 验证loss0.881970
+epoach46，训练acc0.803629, 验证acc0.808566
+
+epoach47，训练loss1.126132, 验证loss0.881396
+epoach47，训练acc0.803575, 验证acc0.808776
+
+epoach48，训练loss1.126103, 验证loss0.880292
+epoach48，训练acc0.803622, 验证acc0.808562
+
+epoach49，训练loss1.126123, 验证loss0.880948
+epoach49，训练acc0.803661, 验证acc0.808802
+
+epoach50，训练loss1.126122, 验证loss0.883725
+epoach50，训练acc0.803637, 验证acc0.808717
+
+epoach51，训练loss1.126114, 验证loss0.880330
+epoach51，训练acc0.803638, 验证acc0.808949
+
+epoach52，训练loss1.126090, 验证loss0.882288
+epoach52，训练acc0.803689, 验证acc0.808642
+
+epoach53，训练loss1.126113, 验证loss0.881863
+epoach53，训练acc0.803661, 验证acc0.808678
+
+epoach54，训练loss1.126145, 验证loss0.879164
+epoach54，训练acc0.803710, 验证acc0.808939
+
+epoach55，训练loss1.126125, 验证loss0.882977
+epoach55，训练acc0.803636, 验证acc0.808585
+
+epoach56，训练loss1.126196, 验证loss0.877094
+epoach56，训练acc0.803713, 验证acc0.809170
+
+epoach57，训练loss1.126092, 验证loss0.882574
+epoach57，训练acc0.803644, 验证acc0.808651
+
+epoach58，训练loss1.126164, 验证loss0.878925
+epoach58，训练acc0.803703, 验证acc0.809037
+
+epoach59，训练loss1.126142, 验证loss0.884554
+epoach59，训练acc0.803614, 验证acc0.808617
+
+epoach60，训练loss1.126092, 验证loss0.883179
+epoach60，训练acc0.803675, 验证acc0.808792
+
+折1，训练loss1.126092, 验证loss0.883179
+-------------next fold------------
+epoach1，训练loss1.059734, 验证loss1.144434
+epoach1，训练acc0.806329, 验证acc0.799537
+
+epoach2，训练loss1.058833, 验证loss1.143589
+epoach2，训练acc0.806513, 验证acc0.799218
+
+epoach3，训练loss1.058411, 验证loss1.143697
+epoach3，训练acc0.806568, 验证acc0.799020
+
+epoach4，训练loss1.058432, 验证loss1.143064
+epoach4，训练acc0.806479, 验证acc0.799207
+
+epoach5，训练loss1.058328, 验证loss1.143190
+epoach5，训练acc0.806365, 验证acc0.799164
+
+epoach6，训练loss1.058086, 验证loss1.142834
+epoach6，训练acc0.806510, 验证acc0.799267
+
+epoach7，训练loss1.058123, 验证loss1.144031
+epoach7，训练acc0.806571, 验证acc0.798808
+
+epoach8，训练loss1.057953, 验证loss1.142630
+epoach8，训练acc0.806612, 验证acc0.799512
+
+epoach9，训练loss1.057929, 验证loss1.142844
+epoach9，训练acc0.806582, 验证acc0.799170
+
+epoach10，训练loss1.057920, 验证loss1.143377
+epoach10，训练acc0.806644, 验证acc0.799231
+
+epoach11，训练loss1.058156, 验证loss1.143541
+epoach11，训练acc0.806631, 验证acc0.799388
+
+epoach12，训练loss1.057909, 验证loss1.143135
+epoach12，训练acc0.806553, 验证acc0.799176
+
+epoach13，训练loss1.057531, 验证loss1.142462
+epoach13，训练acc0.806727, 验证acc0.799610
+
+epoach14，训练loss1.057808, 验证loss1.142713
+epoach14，训练acc0.806588, 验证acc0.799455
+
+epoach15，训练loss1.058105, 验证loss1.143722
+epoach15，训练acc0.806637, 验证acc0.799382
+
+epoach16，训练loss1.057822, 验证loss1.143350
+epoach16，训练acc0.806696, 验证acc0.799174
+
+epoach17，训练loss1.058005, 验证loss1.143725
+epoach17，训练acc0.806711, 验证acc0.799297
+
+epoach18，训练loss1.057815, 验证loss1.142536
+epoach18，训练acc0.806542, 验证acc0.799270
+
+epoach19，训练loss1.057800, 验证loss1.142904
+epoach19，训练acc0.806667, 验证acc0.799379
+
+epoach20，训练loss1.057837, 验证loss1.142925
+epoach20，训练acc0.806526, 验证acc0.799342
+
+epoach21，训练loss1.057817, 验证loss1.142385
+epoach21，训练acc0.806433, 验证acc0.799483
+
+epoach22，训练loss1.057754, 验证loss1.142805
+epoach22，训练acc0.806614, 验证acc0.799233
+
+epoach23，训练loss1.057735, 验证loss1.142605
+epoach23，训练acc0.806585, 验证acc0.799378
+
+epoach24，训练loss1.057732, 验证loss1.142512
+epoach24，训练acc0.806643, 验证acc0.799495
+
+epoach25，训练loss1.057766, 验证loss1.142886
+epoach25，训练acc0.806614, 验证acc0.799329
+
+epoach26，训练loss1.057734, 验证loss1.142659
+epoach26，训练acc0.806622, 验证acc0.799528
+
+epoach27，训练loss1.057773, 验证loss1.142960
+epoach27，训练acc0.806624, 验证acc0.799426
+
+epoach28，训练loss1.057735, 验证loss1.142802
+epoach28，训练acc0.806651, 验证acc0.799357
+
+epoach29，训练loss1.057818, 验证loss1.142585
+epoach29，训练acc0.806520, 验证acc0.799286
+
+epoach30，训练loss1.057724, 验证loss1.142571
+epoach30，训练acc0.806590, 验证acc0.799481
+
+epoach31，训练loss1.057738, 验证loss1.142827
+epoach31，训练acc0.806621, 验证acc0.799320
+
+epoach32，训练loss1.057787, 验证loss1.142509
+epoach32，训练acc0.806506, 验证acc0.799336
+
+epoach33，训练loss1.057858, 验证loss1.143310
+epoach33，训练acc0.806664, 验证acc0.799254
+
+epoach34，训练loss1.057754, 验证loss1.142415
+epoach34，训练acc0.806504, 验证acc0.799491
+
+epoach35，训练loss1.057728, 验证loss1.142806
+epoach35，训练acc0.806608, 验证acc0.799318
+
+epoach36，训练loss1.057726, 验证loss1.142554
+epoach36，训练acc0.806669, 验证acc0.799483
+
+epoach37，训练loss1.057752, 验证loss1.142757
+epoach37，训练acc0.806654, 验证acc0.799273
+
+epoach38，训练loss1.057720, 验证loss1.142820
+epoach38，训练acc0.806598, 验证acc0.799365
+
+epoach39，训练loss1.057700, 验证loss1.142835
+epoach39，训练acc0.806639, 验证acc0.799348
+
+epoach40，训练loss1.057756, 验证loss1.142566
+epoach40，训练acc0.806495, 验证acc0.799342
+
+epoach41，训练loss1.057745, 验证loss1.142259
+epoach41，训练acc0.806569, 验证acc0.799594
+
+epoach42，训练loss1.057709, 验证loss1.142752
+epoach42，训练acc0.806557, 验证acc0.799409
+
+epoach43，训练loss1.057749, 验证loss1.142600
+epoach43，训练acc0.806513, 验证acc0.799316
+
+epoach44，训练loss1.057723, 验证loss1.142980
+epoach44，训练acc0.806626, 验证acc0.799241
+
+epoach45，训练loss1.057707, 验证loss1.142542
+epoach45，训练acc0.806636, 验证acc0.799509
+
+epoach46，训练loss1.057728, 验证loss1.142477
+epoach46，训练acc0.806584, 验证acc0.799467
+
+epoach47，训练loss1.057748, 验证loss1.142262
+epoach47，训练acc0.806567, 验证acc0.799456
+
+epoach48，训练loss1.057691, 验证loss1.142688
+epoach48，训练acc0.806598, 验证acc0.799380
+
+epoach49，训练loss1.057722, 验证loss1.142681
+epoach49，训练acc0.806589, 验证acc0.799501
+
+epoach50，训练loss1.057736, 验证loss1.142882
+epoach50，训练acc0.806611, 验证acc0.799371
+
+epoach51，训练loss1.057699, 验证loss1.142680
+epoach51，训练acc0.806640, 验证acc0.799457
+
+epoach52，训练loss1.057717, 验证loss1.142864
+epoach52，训练acc0.806639, 验证acc0.799369
+
+epoach53，训练loss1.057713, 验证loss1.142428
+epoach53，训练acc0.806592, 验证acc0.799495
+
+epoach54，训练loss1.057689, 验证loss1.142477
+epoach54，训练acc0.806598, 验证acc0.799475
+
+epoach55，训练loss1.057811, 验证loss1.142017
+epoach55，训练acc0.806417, 验证acc0.799606
+
+epoach56，训练loss1.057740, 验证loss1.142293
+epoach56，训练acc0.806493, 验证acc0.799564
+
+epoach57，训练loss1.057735, 验证loss1.142311
+epoach57，训练acc0.806561, 验证acc0.799484
+
+epoach58，训练loss1.057715, 验证loss1.142311
+epoach58，训练acc0.806568, 验证acc0.799480
+
+epoach59，训练loss1.057684, 验证loss1.142725
+epoach59，训练acc0.806636, 验证acc0.799443
+
+epoach60，训练loss1.057703, 验证loss1.142817
+epoach60，训练acc0.806635, 验证acc0.799309
+
+折2，训练loss1.057703, 验证loss1.142817
+-------------next fold------------
+epoach1，训练loss0.981780, 验证loss1.484498
+epoach1，训练acc0.802656, 验证acc0.813750
+
+epoach2，训练loss0.981083, 验证loss1.512199
+epoach2，训练acc0.802478, 验证acc0.812887
+
+epoach3，训练loss0.980656, 验证loss1.503183
+epoach3，训练acc0.802542, 验证acc0.813709
+
+epoach4，训练loss0.980293, 验证loss1.486989
+epoach4，训练acc0.802695, 验证acc0.813389
+
+epoach5，训练loss0.980014, 验证loss1.491486
+epoach5，训练acc0.803009, 验证acc0.813993
+
+epoach6，训练loss0.980007, 验证loss1.487806
+epoach6，训练acc0.802762, 验证acc0.813550
+
+epoach7，训练loss0.979936, 验证loss1.496069
+epoach7，训练acc0.802954, 验证acc0.813514
+
+epoach8，训练loss0.979940, 验证loss1.489672
+epoach8，训练acc0.802906, 验证acc0.813682
+
+epoach9，训练loss0.979838, 验证loss1.492702
+epoach9，训练acc0.802852, 验证acc0.813683
+
+epoach10，训练loss0.979792, 验证loss1.493456
+epoach10，训练acc0.802946, 验证acc0.813382
+
+epoach11，训练loss0.979742, 验证loss1.491754
+epoach11，训练acc0.802963, 验证acc0.813839
+
+epoach12，训练loss0.979771, 验证loss1.493668
+epoach12，训练acc0.802936, 验证acc0.813431
+
+epoach13，训练loss0.979807, 验证loss1.492016
+epoach13，训练acc0.802803, 验证acc0.813484
+
+epoach14，训练loss0.979758, 验证loss1.491378
+epoach14，训练acc0.802999, 验证acc0.813842
+
+epoach15，训练loss0.979834, 验证loss1.489563
+epoach15，训练acc0.802867, 验证acc0.813577
+
+epoach16，训练loss0.979805, 验证loss1.493822
+epoach16，训练acc0.802868, 验证acc0.813452
+
+epoach17，训练loss0.979733, 验证loss1.489740
+epoach17，训练acc0.802948, 验证acc0.813843
+
+epoach18，训练loss0.979732, 验证loss1.495417
+epoach18，训练acc0.802975, 验证acc0.813630
+
+epoach19，训练loss0.979726, 验证loss1.493132
+epoach19，训练acc0.802991, 验证acc0.813805
+
+epoach20，训练loss0.979696, 验证loss1.493126
+epoach20，训练acc0.802930, 验证acc0.813924
+
+epoach21，训练loss0.979743, 验证loss1.491504
+epoach21，训练acc0.802876, 验证acc0.813690
+
+epoach22，训练loss0.979759, 验证loss1.492920
+epoach22，训练acc0.803039, 验证acc0.813794
+
+epoach23，训练loss0.979769, 验证loss1.494026
+epoach23，训练acc0.802995, 验证acc0.813887
+
+epoach24，训练loss0.979715, 验证loss1.493119
+epoach24，训练acc0.802906, 验证acc0.813830
+
+epoach25，训练loss0.979714, 验证loss1.490713
+epoach25，训练acc0.802884, 验证acc0.813701
+
+epoach26，训练loss0.979828, 验证loss1.492288
+epoach26，训练acc0.802848, 验证acc0.813281
+
+epoach27，训练loss0.979695, 验证loss1.493678
+epoach27，训练acc0.802959, 验证acc0.813738
+
+epoach28，训练loss0.979683, 验证loss1.491039
+epoach28，训练acc0.802882, 验证acc0.813727
+
+epoach29，训练loss0.979718, 验证loss1.492980
+epoach29，训练acc0.802871, 验证acc0.813582
+
+epoach30，训练loss0.979711, 验证loss1.491246
+epoach30，训练acc0.802953, 验证acc0.813975
+
+epoach31，训练loss0.979738, 验证loss1.493618
+epoach31，训练acc0.803015, 验证acc0.813887
+
+epoach32，训练loss0.979682, 验证loss1.493239
+epoach32，训练acc0.802920, 验证acc0.813904
+
+epoach33，训练loss0.979778, 验证loss1.491878
+epoach33，训练acc0.802971, 验证acc0.814016
+
+epoach34，训练loss0.979694, 验证loss1.491288
+epoach34，训练acc0.802942, 验证acc0.813777
+
+epoach35，训练loss0.979679, 验证loss1.494982
+epoach35，训练acc0.802985, 验证acc0.813742
+
+epoach36，训练loss0.979679, 验证loss1.493663
+epoach36，训练acc0.802956, 验证acc0.813902
+
+epoach37，训练loss0.979670, 验证loss1.492719
+epoach37，训练acc0.802951, 验证acc0.813859
+
+epoach38，训练loss0.979705, 验证loss1.490649
+epoach38，训练acc0.802972, 验证acc0.813906
+
+epoach39，训练loss0.979683, 验证loss1.493510
+epoach39，训练acc0.803018, 验证acc0.813747
+
+epoach40，训练loss0.979677, 验证loss1.492310
+epoach40，训练acc0.802943, 验证acc0.813666
+
+epoach41，训练loss0.979682, 验证loss1.493402
+epoach41，训练acc0.802982, 验证acc0.813857
+
+epoach42，训练loss0.979672, 验证loss1.492861
+epoach42，训练acc0.802943, 验证acc0.813610
+
+epoach43，训练loss0.979677, 验证loss1.492123
+epoach43，训练acc0.802925, 验证acc0.813956
+
+epoach44，训练loss0.979701, 验证loss1.492128
+epoach44，训练acc0.802888, 验证acc0.813689
+
+epoach45，训练loss0.979711, 验证loss1.493065
+epoach45，训练acc0.802862, 验证acc0.813580
+
+epoach46，训练loss0.979690, 验证loss1.492870
+epoach46，训练acc0.802905, 验证acc0.813818
+
+epoach47，训练loss0.979685, 验证loss1.491593
+epoach47，训练acc0.802889, 验证acc0.813613
+
+epoach48，训练loss0.979688, 验证loss1.494557
+epoach48，训练acc0.803007, 验证acc0.813829
+
+epoach49，训练loss0.979755, 验证loss1.491253
+epoach49，训练acc0.802866, 验证acc0.813561
+
+epoach50，训练loss0.979666, 验证loss1.492260
+epoach50，训练acc0.802968, 验证acc0.813930
+
+epoach51，训练loss0.979668, 验证loss1.493841
+epoach51，训练acc0.802957, 验证acc0.813777
+
+epoach52，训练loss0.979668, 验证loss1.492679
+epoach52，训练acc0.802881, 验证acc0.813709
+
+epoach53，训练loss0.979655, 验证loss1.492194
+epoach53，训练acc0.802953, 验证acc0.813575
+
+epoach54，训练loss0.979669, 验证loss1.493859
+epoach54，训练acc0.802925, 验证acc0.813866
+
+epoach55，训练loss0.979691, 验证loss1.493179
+epoach55，训练acc0.802923, 验证acc0.813658
+
+epoach56，训练loss0.979658, 验证loss1.492324
+epoach56，训练acc0.802992, 验证acc0.813759
+
+epoach57，训练loss0.979650, 验证loss1.492842
+epoach57，训练acc0.802968, 验证acc0.813644
+
+epoach58，训练loss0.979677, 验证loss1.491804
+epoach58，训练acc0.802938, 验证acc0.813702
+
+epoach59，训练loss0.979673, 验证loss1.492541
+epoach59，训练acc0.802900, 验证acc0.813601
+
+epoach60，训练loss0.979650, 验证loss1.493163
+epoach60，训练acc0.802969, 验证acc0.813876
+
+折3，训练loss0.979650, 验证loss1.493163
+-------------next fold------------
+epoach1，训练loss1.101119, 验证loss0.979210
+epoach1，训练acc0.801639, 验证acc0.816941
+
+epoach2，训练loss1.100318, 验证loss0.977793
+epoach2，训练acc0.801769, 验证acc0.817036
+
+epoach3，训练loss1.100038, 验证loss0.976753
+epoach3，训练acc0.801874, 验证acc0.817573
+
+epoach4，训练loss1.099708, 验证loss0.977749
+epoach4，训练acc0.801867, 验证acc0.817404
+
+epoach5，训练loss1.099625, 验证loss0.977935
+epoach5，训练acc0.801661, 验证acc0.817334
+
+epoach6，训练loss1.099474, 验证loss0.978200
+epoach6，训练acc0.801818, 验证acc0.817169
+
+epoach7，训练loss1.099754, 验证loss0.980291
+epoach7，训练acc0.801568, 验证acc0.816619
+
+epoach8，训练loss1.099485, 验证loss0.978457
+epoach8，训练acc0.801695, 验证acc0.816647
+
+epoach9，训练loss1.099514, 验证loss0.978807
+epoach9，训练acc0.801819, 验证acc0.816943
+
+epoach10，训练loss1.099332, 验证loss0.977266
+epoach10，训练acc0.801955, 验证acc0.817364
+
+epoach11，训练loss1.099545, 验证loss0.975781
+epoach11，训练acc0.801837, 验证acc0.817393
+
+epoach12，训练loss1.099320, 验证loss0.977162
+epoach12，训练acc0.801780, 验证acc0.817527
+
+epoach13，训练loss1.099247, 验证loss0.977963
+epoach13，训练acc0.801814, 验证acc0.817061
+
+epoach14，训练loss1.099565, 验证loss0.975792
+epoach14，训练acc0.801899, 验证acc0.818090
+
+epoach15，训练loss1.099525, 验证loss0.976033
+epoach15，训练acc0.801939, 验证acc0.817699
+
+epoach16，训练loss1.099282, 验证loss0.976771
+epoach16，训练acc0.801894, 验证acc0.817259
+
+epoach17，训练loss1.099264, 验证loss0.977148
+epoach17，训练acc0.801831, 验证acc0.817355
+
+epoach18，训练loss1.099278, 验证loss0.977089
+epoach18，训练acc0.801840, 验证acc0.817572
+
+epoach19，训练loss1.099339, 验证loss0.976432
+epoach19，训练acc0.801899, 验证acc0.817675
+
+epoach20，训练loss1.099246, 验证loss0.977603
+epoach20，训练acc0.801863, 验证acc0.817276
+
+epoach21，训练loss1.099300, 验证loss0.978812
+epoach21，训练acc0.801717, 验证acc0.816867
+
+epoach22，训练loss1.099248, 验证loss0.977521
+epoach22，训练acc0.801753, 验证acc0.817433
+
+epoach23，训练loss1.099243, 验证loss0.976650
+epoach23，训练acc0.801859, 验证acc0.817339
+
+epoach24，训练loss1.099217, 验证loss0.977466
+epoach24，训练acc0.801760, 验证acc0.816846
+
+epoach25，训练loss1.099229, 验证loss0.977025
+epoach25，训练acc0.801848, 验证acc0.817396
+
+epoach26，训练loss1.099217, 验证loss0.977287
+epoach26，训练acc0.801822, 验证acc0.817469
+
+epoach27，训练loss1.099213, 验证loss0.977239
+epoach27，训练acc0.801850, 验证acc0.817417
+
+epoach28，训练loss1.099364, 验证loss0.978842
+epoach28，训练acc0.801633, 验证acc0.816793
+
+epoach29，训练loss1.099206, 验证loss0.977138
+epoach29，训练acc0.801887, 验证acc0.817366
+
+epoach30，训练loss1.099217, 验证loss0.978439
+epoach30，训练acc0.801785, 验证acc0.817086
+
+epoach31，训练loss1.099167, 验证loss0.977910
+epoach31，训练acc0.801829, 验证acc0.817204
+
+epoach32，训练loss1.099220, 验证loss0.977814
+epoach32，训练acc0.801803, 验证acc0.817297
+
+epoach33，训练loss1.099209, 验证loss0.977387
+epoach33，训练acc0.801875, 验证acc0.817355
+
+epoach34，训练loss1.099431, 验证loss0.975894
+epoach34，训练acc0.801864, 验证acc0.817682
+
+epoach35，训练loss1.099252, 验证loss0.978402
+epoach35，训练acc0.801899, 验证acc0.817302
+
+epoach36，训练loss1.099205, 验证loss0.977963
+epoach36，训练acc0.801834, 验证acc0.817109
+
+epoach37，训练loss1.099212, 验证loss0.978052
+epoach37，训练acc0.801819, 验证acc0.816995
+
+epoach38，训练loss1.099212, 验证loss0.976843
+epoach38，训练acc0.801889, 验证acc0.817535
+
+epoach39，训练loss1.099224, 验证loss0.978004
+epoach39，训练acc0.801831, 验证acc0.817210
+
+epoach40，训练loss1.099252, 验证loss0.978612
+epoach40，训练acc0.801766, 验证acc0.816971
+
+epoach41，训练loss1.099187, 验证loss0.977286
+epoach41，训练acc0.801908, 验证acc0.817474
+
+epoach42，训练loss1.099202, 验证loss0.977755
+epoach42，训练acc0.801861, 验证acc0.817111
+
+epoach43，训练loss1.099247, 验证loss0.977030
+epoach43，训练acc0.801922, 验证acc0.817598
+
+epoach44，训练loss1.099343, 验证loss0.975958
+epoach44，训练acc0.801875, 验证acc0.817928
+
+epoach45，训练loss1.099174, 验证loss0.977546
+epoach45，训练acc0.801848, 验证acc0.817348
+
+epoach46，训练loss1.099151, 验证loss0.977597
+epoach46，训练acc0.801833, 验证acc0.817219
+
+epoach47，训练loss1.099205, 验证loss0.978184
+epoach47，训练acc0.801835, 验证acc0.817100
+
+epoach48，训练loss1.099193, 验证loss0.977791
+epoach48，训练acc0.801880, 验证acc0.817335
+
+epoach49，训练loss1.099302, 验证loss0.976510
+epoach49，训练acc0.801890, 验证acc0.817709
+
+epoach50，训练loss1.099165, 验证loss0.977577
+epoach50，训练acc0.801804, 验证acc0.817260
+
+epoach51，训练loss1.099221, 验证loss0.976845
+epoach51，训练acc0.801871, 验证acc0.817315
+
+epoach52，训练loss1.099196, 验证loss0.976934
+epoach52，训练acc0.801863, 验证acc0.817368
+
+epoach53，训练loss1.099223, 验证loss0.976794
+epoach53，训练acc0.801900, 验证acc0.817696
+
+epoach54，训练loss1.099192, 验证loss0.977293
+epoach54，训练acc0.801841, 验证acc0.817173
+
+epoach55，训练loss1.099216, 验证loss0.978429
+epoach55，训练acc0.801851, 验证acc0.816939
+
+epoach56，训练loss1.099258, 验证loss0.976489
+epoach56，训练acc0.801937, 验证acc0.817509
+
+epoach57，训练loss1.099188, 验证loss0.977391
+epoach57，训练acc0.801862, 验证acc0.817361
+
+epoach58，训练loss1.099172, 验证loss0.977300
+epoach58，训练acc0.801868, 验证acc0.817254
+
+epoach59，训练loss1.099173, 验证loss0.977298
+epoach59，训练acc0.801860, 验证acc0.817145
+
+epoach60，训练loss1.099180, 验证loss0.977980
+epoach60，训练acc0.801801, 验证acc0.817167
+
+折4，训练loss1.099180, 验证loss0.977980
+-------------next fold------------
+epoach1，训练loss1.100388, 验证loss0.988074
+epoach1，训练acc0.811352, 验证acc0.779227
+
+epoach2，训练loss1.099056, 验证loss0.987159
+epoach2，训练acc0.811536, 验证acc0.777677
+
+epoach3，训练loss1.098887, 验证loss0.988923
+epoach3，训练acc0.811773, 验证acc0.777915
+
+epoach4，训练loss1.098440, 验证loss0.987826
+epoach4，训练acc0.811662, 验证acc0.777840
+
+epoach5，训练loss1.099136, 验证loss0.979946

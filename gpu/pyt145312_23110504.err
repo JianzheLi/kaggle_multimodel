@@ -1,0 +1,21 @@
+/gpfs1/jdhan_pkuhpc/lijianzhe/python_code/model.py:217: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  features = torch.tensor(features, dtype=torch.float32)
+/gpfs1/jdhan_pkuhpc/lijianzhe/python_code/model.py:218: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  labels = torch.tensor(labels, dtype=torch.float32)
+Traceback (most recent call last):
+  File "/gpfs1/jdhan_pkuhpc/lijianzhe/python_code/model.py", line 415, in <module>
+    train_l, valid_l,train_acc,valid_acc,results_df= k_fold(k, train_features, target_features, num_epochs, lr,weight_decay, batch_size,target_true_value)
+  File "/gpfs1/jdhan_pkuhpc/lijianzhe/python_code/model.py", line 397, in k_fold
+    results_df = save_model(results_df, train_ls, valid_ls, train_acc, valid_acc, i, num_epochs)
+  File "/gpfs1/jdhan_pkuhpc/lijianzhe/python_code/model.py", line 34, in save_model
+    fold_results = pd.DataFrame({
+  File "/lustre2/jdhan_pkuhpc/common/mamba/envs/lijianzhe/lib/python3.10/site-packages/pandas/core/frame.py", line 778, in __init__
+    mgr = dict_to_mgr(data, index, columns, dtype=dtype, copy=copy, typ=manager)
+  File "/lustre2/jdhan_pkuhpc/common/mamba/envs/lijianzhe/lib/python3.10/site-packages/pandas/core/internals/construction.py", line 503, in dict_to_mgr
+    return arrays_to_mgr(arrays, columns, index, dtype=dtype, typ=typ, consolidate=copy)
+  File "/lustre2/jdhan_pkuhpc/common/mamba/envs/lijianzhe/lib/python3.10/site-packages/pandas/core/internals/construction.py", line 114, in arrays_to_mgr
+    index = _extract_index(arrays)
+  File "/lustre2/jdhan_pkuhpc/common/mamba/envs/lijianzhe/lib/python3.10/site-packages/pandas/core/internals/construction.py", line 677, in _extract_index
+    raise ValueError("All arrays must be of the same length")
+ValueError: All arrays must be of the same length
+pkurun: error: s30b00n03: task 0: Exited with exit code 1
